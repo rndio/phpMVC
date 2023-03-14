@@ -10,7 +10,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="<?=BASEURL?>/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?=BASEURL?>/favicon-16x16.png">
     <link rel="manifest" href="<?=BASEURL?>/site.webmanifest">
-    <link rel="stylesheet" href="<?=BASEURL?>/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 </head>
 <body>
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
